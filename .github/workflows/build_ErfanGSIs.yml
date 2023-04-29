@@ -18,7 +18,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mdc4qf3jo1t37smhd5uv6jq9qscp44qavib6piv6i6l741q7pqrvvc9b.qc.dolfincdnx.net:10443/xdispatchb711315677005329/bigota.d.miui.com/V14.0.1.0.SJNCNXM/miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip?bsreqid=e588f45c891fbd58ce1a3a1b36a861b6&bsxdisp=se
+  ROM_URL: https://9b56tf8qppton1i352b7u6g21nm2k4drh25pv5l5fe0b9ir8hc6fv339.qc.dolfincdnx.net:7843/xdispatch717658027700532a/bigota.d.miui.com/V14.0.1.0.SJNCNXM/miui_CEZANNE_V14.0.1.0.SJNCNXM_cbba55822d_12.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiYTRiZmFjYWFiMDdjNTRlMzliZjBiYWU3ZmZiZGZmMDkiLCJjYWNoZV9rZXkiOiJcL1YxNC4wLjEuMC5TSk5DTlhNXC9taXVpX0NFWkFOTkVfVjE0LjAuMS4wLlNKTkNOWE1fY2JiYTU1ODIyZF8xMi4wLnppcCIsImRuc19ob3N0IjoicGYwMDMudi5ic2dzbGIuY24iLCJrZXkiOiJlNzVjZGRjODE4OWIzY2Y1NzBjMTllYTMxMDcyZDc0ZCIsInRzIjoxNjgyNzQ0OTU2fQ==
   ROM_NAME: k30u
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
